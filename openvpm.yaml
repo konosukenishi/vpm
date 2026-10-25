@@ -3,4 +3,10 @@ id: dev.konosuke.vpm
 author: Konosuke Nishi
 description: VPM packages by Konosuke Nishi.
 
-packageSources: [ ]
+packageSources:
+  - name: konosukenishi/Libooth
+    assetPattern: "dev.konosuke.libooth-*.zip"
+
+upmRegistries:
+  - name: OpenUPM
+    url: https://package.openupm.com
