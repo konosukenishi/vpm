@@ -1,0 +1,6 @@
+name: Konosuke VPM Repository
+id: dev.konosuke.vpm
+author: Konosuke Nishi
+description: VPM packages by Konosuke Nishi.
+
+packageSources: [ ]
